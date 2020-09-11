@@ -18,6 +18,7 @@ function App() {
         >
           Learn React With Manik
         </a>
+        Master commit
       </header>
     </div>
   );
